@@ -1,0 +1,26 @@
+.papo{
+width: 125px;
+display: none;
+
+margin:auto;
+margin-top: 20%;
+
+
+}
+
+body{
+
+background: black;
+opacity: 25px;
+
+}
+
+img{
+
+    display: block;
+}
+
+button{
+
+    font-size: 40px;
+}
